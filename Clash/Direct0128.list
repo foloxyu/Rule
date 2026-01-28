@@ -2,6 +2,7 @@
 
 # MyPTList
 # 域名关键字匹配
+DOMAIN-KEYWORD,yumengxin
 DOMAIN-KEYWORD,xingyunge
 DOMAIN-KEYWORD,1717277
 DOMAIN-KEYWORD,sunny
@@ -94,7 +95,6 @@ IP-CIDR,185.170.113.247/32,no-resolve
 IP-CIDR,37.120.169.150/32,no-resolve
 IP-CIDR,152.53.178.69/32,no-resolve
 
-#Version 0118
 
 
 

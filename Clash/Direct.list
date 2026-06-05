@@ -1,8 +1,23 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyPTList
+# MyDirectList
 # 域名关键字匹配
-DOMAIN-KEYWORD,sssaicode
+
+#小米
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mijia.com
+DOMAIN-SUFFIX,miot-spec.com
+
+#抖音
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,bytedance.com
+
+#PT站点
 DOMAIN-KEYWORD,myaltbox
 DOMAIN-KEYWORD,gtkpw
 DOMAIN-KEYWORD,raingfh

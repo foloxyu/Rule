@@ -95,11 +95,6 @@ DOMAIN-KEYWORD,torrenthub
 DOMAIN-KEYWORD,pig
 DOMAIN-KEYWORD,pter
 
-#IP段
-IP-CIDR,185.170.113.247/32,no-resolve
-IP-CIDR,37.120.169.150/32,no-resolve
-IP-CIDR,152.53.178.69/32,no-resolve
-
 
 
 
